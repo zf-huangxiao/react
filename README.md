@@ -39,7 +39,7 @@
 > $ npm run build
 ```
 
-打开浏览器 `http://localhost:8080/`，后台服务端口为 `3000`
+执行完`npm run dev`命令后，打开浏览器 `http://localhost:8080/`运行项目，后台服务端口为 `3000`
 
 
 
