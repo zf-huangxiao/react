@@ -15,7 +15,7 @@
 > $ git clone https://github.com/CanFoo/react.git
 ```
 
-分别进入工程目录和server目录下安装依赖包
+分别进入react目录和server目录下安装依赖包
 
 ```
 > $ npm install
