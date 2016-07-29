@@ -2,7 +2,7 @@
 
 ### 基于reactjs && Node 通讯的简单演示
 
-* Reactjs && ES6 && webpack构建京东首页
+* Reactjs && ES6 && webpack构建移动端京东首页
 * 基于文件系统的Node.js服务端
 
 ![Mou icon](./jd.png)
